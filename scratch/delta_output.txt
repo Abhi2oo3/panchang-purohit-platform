@@ -1,0 +1,113 @@
+﻿--- Date: 2026-09-25 ---
+Sunrise: 5:47:46 am | Sunset: 5:51:34 pm
+Tithi Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Nakshatra Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Yoga Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+--- Date: 2026-09-26 ---
+Sunrise: 5:48:09 am | Sunset: 5:50:29 pm
+Tithi Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Nakshatra Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Yoga Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+--- Date: 2026-09-27 ---
+Sunrise: 5:48:33 am | Sunset: 5:49:25 pm
+Tithi Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Nakshatra Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Yoga Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+--- Date: 2026-09-28 ---
+Sunrise: 5:48:56 am | Sunset: 5:48:20 pm
+Tithi Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Nakshatra Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Yoga Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+--- Date: 2026-09-29 ---
+Sunrise: 5:49:20 am | Sunset: 5:47:16 pm
+Tithi Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Nakshatra Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Yoga Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+  - undefined ends at N/A
+--- Date: 2026-09-30 ---
+Sunrise: 5:49:44 am | Sunset: 5:46:12 pm
+Tithi Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Nakshatra Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Yoga Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+--- Date: 2026-10-01 ---
+Sunrise: 5:50:09 am | Sunset: 5:45:09 pm
+Tithi Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Nakshatra Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+  - undefined ends at N/A
+Yoga Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+--- Date: 2026-10-02 ---
+Sunrise: 5:50:34 am | Sunset: 5:44:05 pm
+Tithi Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Nakshatra Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Yoga Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+--- Date: 2026-10-03 ---
+Sunrise: 5:50:58 am | Sunset: 5:43:03 pm
+Tithi Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Nakshatra Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Yoga Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+--- Date: 2026-10-04 ---
+Sunrise: 5:51:24 am | Sunset: 5:42:00 pm
+Tithi Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+  - undefined ends at N/A
+Nakshatra Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
+Yoga Transitions:
+  - undefined ends at N/A
+  - undefined ends at N/A
